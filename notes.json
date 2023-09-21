@@ -1,1 +1,32 @@
-[{"id": 1, "title": "Homework", "body": "Finish until Monday", "timestamp": "20.09.2023 19:42"}, {"id": 2, "title": "Shopping", "body": "On Tuesday", "timestamp": "21.09.2023 17:14"}, {"id": 3, "title": "Town festival", "body": "From Wednesday to Friday", "timestamp": "20.09.2023 19:43"}, {"id": 4, "title": "Work trip", "body": "In 2 weeks", "timestamp": "20.09.2023 19:45"}, {"id": 6, "title": "Friend birthday", "body": "Call a friend", "timestamp": "21.09.2023 17:18"}]
+[
+    {
+        "id": 2,
+        "title": "Shopping",
+        "body": "On Tuesday",
+        "timestamp": "21.09.2023 17:14"
+    },
+    {
+        "id": 3,
+        "title": "Town festival",
+        "body": "From Wednesday to Friday",
+        "timestamp": "20.09.2023 19:43"
+    },
+    {
+        "id": 4,
+        "title": "Work trip",
+        "body": "In 2 weeks",
+        "timestamp": "20.09.2023 19:45"
+    },
+    {
+        "id": 6,
+        "title": "Friend birthday",
+        "body": "Call a friend",
+        "timestamp": "21.09.2023 17:18"
+    },
+    {
+        "id": 7,
+        "title": "Homework",
+        "body": "To do until Friday",
+        "timestamp": "21.09.2023 17:30"
+    }
+]
